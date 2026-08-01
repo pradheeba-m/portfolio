@@ -40,6 +40,9 @@ function App() {
           >
             LinkedIn
           </a>
+          <a className="btn" href="/resume.pdf" target="_blank">
+  Resume
+</a>
         </div>
       </header>
 
